@@ -1,0 +1,7 @@
+parameters:
+#    innova_re_core.example.class: InnovaRE\CoreBundle\Example
+
+services:
+#    innova_re_core.example:
+#        class: %innova_re_core.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

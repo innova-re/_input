@@ -1,0 +1,4 @@
+innova_re_core:
+    resource: "@InnovaRECoreBundle/Resources/config/routing.yml"
+    prefix:   /
+
